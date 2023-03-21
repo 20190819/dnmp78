@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://pecl.php.net/package/rdkafka
+HostUrl=https://pecl.php.net/get/rdkafka-6.0.3.tgz
